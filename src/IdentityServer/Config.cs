@@ -35,6 +35,6 @@ public static class Config
                     // scopes that client has access to
                     AllowedScopes = { "api1" }
                     }
-                }
+                };
             };
 }
